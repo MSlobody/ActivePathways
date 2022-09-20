@@ -1,5 +1,5 @@
 # ActivePathways
-ActivePathways is an R package that is available on [github](https://github.com/reimandlab/ActivePathways) and [CRAN](https://cran.r-project.org/web/packages/ActivePathways/index.html) and was published in Nature Communications (doi:10.1038/s41467-019-13983-9) [https://www.nature.com/articles/s41467-019-13983-9]
+ActivePathways is an R package that is available on [github](https://github.com/reimandlab/ActivePathways) and [CRAN](https://cran.r-project.org/web/packages/ActivePathways/index.html) and was published in Nature Communications (doi:10.1038/s41467-019-13983-9)[https://www.nature.com/articles/s41467-019-13983-9]
 
  
 I am currently the main contributor to this package (from June 2021). Since this time I have:
